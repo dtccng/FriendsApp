@@ -16,5 +16,4 @@
         
         <a href="read">View All Friends</a>
     </body>
-    
 </html>
